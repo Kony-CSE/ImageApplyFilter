@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s84e919e04f84c74bb6744bf1749b0dc",
+    "_text_": "Green",
+    "_top_": {
+        "type": "string",
+        "value": "18dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s84e919e04f84c74bb6744bf1749b0dc",
+    "id": "CopyButton028379213765e4e",
+    "info": null,
+    "isvisible": true,
+    "kuid": "bec4d39c672a4cc286b2466da40b27df",
+    "name": "kony.ui.Button",
+    "parent": "flxScrlMainCont",
+    "pf": "frmHome",
+    "wType": "Button",
+    "zindex": 1
+}

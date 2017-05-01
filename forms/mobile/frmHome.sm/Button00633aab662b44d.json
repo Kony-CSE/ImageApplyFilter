@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1b8832936fe4346baa1f4f5a098bfc1",
+    "_text_": "Red",
+    "_top_": {
+        "type": "string",
+        "value": "18dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s1b8832936fe4346baa1f4f5a098bfc1",
+    "id": "Button00633aab662b44d",
+    "ide_onClick": "AS_Button_8ee5aabafd0c445f9d0e44b728013acb",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c7225fd9a160406ea547ed505c7cfa56",
+    "name": "kony.ui.Button",
+    "parent": "flxScrlMainCont",
+    "pf": "frmHome",
+    "wType": "Button",
+    "zindex": 1
+}
